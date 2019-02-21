@@ -1,0 +1,29 @@
+crn,catalog_id,section,credits,title,meetings,primary_instructor
+11618,AC 0555,01,3.000,Issues in Internal Audit,"[{'days': 'TF', 'times': '1000am-0600pm', 'dates': '01/04-01/08', 'location': 'DSB 104'}, {'days': 'MR', 'times': '1000am-0600pm', 'dates': '01/11-01/15', 'location': 'DSB 104'}]",Dawn W  Massey
+11603,AE 0291,OL1,3.000,Business Ethics,"[{'days': '\xa0', 'times': 'TBA', 'dates': '12/23-01/27', 'location': 'ONLINE '}]",Lisa M.  Sticca-Conrod
+11604,AH 0172,OL1,3.000,History of Photography,"[{'days': '\xa0', 'times': 'TBA', 'dates': '12/23-01/27', 'location': 'ONLINE '}]",Lauren Elise  Cesiro
+11605,BI 0075,OL1,3.000,Ecology and Society,"[{'days': '\xa0', 'times': 'TBA', 'dates': '12/23-01/27', 'location': 'ONLINE '}]",Thomas B.  Cunningham
+11627,BI 0075,OL2,3.000,Ecology and Society,"[{'days': '\xa0', 'times': 'TBA', 'dates': '12/23-01/27', 'location': 'ONLINE '}]",Thomas B.  Cunningham
+11614,BU 0211,A,3.000,Legal Environment of Business,"[{'days': 'MTWRF', 'times': '0830am-0430pm', 'dates': '01/06-01/12', 'location': 'DSB 109'}]",Sharlene A.  McEvoy
+11622,CO 0246,A,3.000,Family Communication,"[{'days': 'MTWRF', 'times': '0830am-0430pm', 'dates': '01/06-01/12', 'location': 'DMH 350'}]",Margaret A.  Wills
+11628,CO 0397,DG,1.000,Independent Study,"[{'days': '\xa0', 'times': 'TBA', 'dates': '12/23-01/20', 'location': 'BY ARR '}]",David   Gudelunas
+11606,EC 0011,OL1,3.000,Introduction to Microeconomics,"[{'days': '\xa0', 'times': 'TBA', 'dates': '12/23-01/27', 'location': 'ONLINE '}]",William F.  Vasquez Mazariegos
+11629,EC 0298,WVM,3.000,Independent Study: Statistics (EC 278),"[{'days': '\xa0', 'times': 'TBA', 'dates': '12/23-01/30', 'location': 'BY ARR '}]",William F.  Vasquez Mazariegos
+11633,ECE 0483,JD,3.000,Independent Study: Digital Communications,"[{'days': '\xa0', 'times': 'TBA', 'dates': '01/04-01/30', 'location': 'BY ARR '}]",Jeffrey N.  Denenberg
+11632,EE 0352,JD,3.000,Digital Communications,"[{'days': '\xa0', 'times': 'TBA', 'dates': '12/23-01/30', 'location': 'BY ARR '}]",Jeffrey N.  Denenberg
+11607,EN 0101,OL1,3.000,Introduction to Literary and Cultural Studies,"[{'days': '\xa0', 'times': 'TBA', 'dates': '01/01-01/30', 'location': 'ONLINE '}]",Gita   Rajan
+11625,ENW 0347,SH,3.000,Independent Writing Project,"[{'days': '\xa0', 'times': 'TBA', 'dates': '12/27-01/04', 'location': 'BY ARR '}]",Sonya R.  Huber
+11630,GS 0399,MW,3.000,General Studies Senior Project,"[{'days': '\xa0', 'times': 'TBA', 'dates': '12/23-01/30', 'location': 'BY ARR '}]",Margaret A.  Wills
+11601,IS 0500,01,3.000,Information Systems and Database Management,"[{'days': 'MTWR', 'times': '0600pm-0930pm', 'dates': '01/04-01/16', 'location': 'DSB 107'}, {'days': 'S', 'times': '0830am-0430pm', 'dates': '01/04-01/16', 'location': 'DSB 107'}]",Yasin   Ozcelik
+11615,MG 0500,01,3.000,Leadership,"[{'days': 'MTWR', 'times': '0600pm-0930pm', 'dates': '01/04-01/16', 'location': 'DSB 112'}, {'days': 'S', 'times': '0830am-0430pm', 'dates': '01/04-01/16', 'location': 'DSB 112'}]",Lisa A.  Mainiero
+11617,MK 0540,01,3.000,Advertising Management,"[{'days': 'MTWR', 'times': '0600pm-0930pm', 'dates': '01/04-01/16', 'location': 'DSB 109'}, {'days': 'S', 'times': '0830am-0430pm', 'dates': '01/04-01/16', 'location': 'DSB 109'}]",Janet   Huetteman
+11608,MU 0101,A,3.000,The History of Jazz,"[{'days': 'MTWRF', 'times': '0830am-0430pm', 'dates': '01/06-01/12', 'location': 'JGS 25'}]",Brian Q.  Torff
+11626,NS 0399,DM,4.000,Independent Study: Transition to Professional Nursing,"[{'days': '\xa0', 'times': 'TBA', 'dates': '12/23-01/25', 'location': 'BY ARR '}]",Diana R.  Mager
+11620,NS 0687,01,1.000-6.000,DNP Immersion,"[{'days': '\xa0', 'times': 'TBA', 'dates': '01/04-01/16', 'location': 'BY ARR '}]",Joyce Muriel  Shea
+11610,PS 0078,OL1,3.000,The Nature of the Universe,"[{'days': '\xa0', 'times': 'TBA', 'dates': '12/23-01/27', 'location': 'ONLINE '}]",Joachim   Kuhn
+11609,PO 0133,OL1,3.000,United States Foreign Policy,"[{'days': '\xa0', 'times': 'TBA', 'dates': '12/23-01/27', 'location': 'ONLINE '}]",Lucrecia   Garcia Iommi
+11611,PY 0121,OL1,3.000,Fundamentals of Social Psychology,"[{'days': '\xa0', 'times': 'TBA', 'dates': '12/23-01/27', 'location': 'ONLINE '}]",Dorothea D.  Braginsky
+11616,RS 0101D,OL1,3.000,Exploring Religion: Religion in a Comparative Key,"[{'days': '\xa0', 'times': 'TBA', 'dates': '12/23-01/27', 'location': 'ONLINE '}]",Erik J.  Ranstrom
+11613,SO 0279,A,3.000,Criminal Justice System Seminar,"[{'days': 'MTWRF', 'times': '0830am-0430pm', 'dates': '01/06-01/12', 'location': 'DMH 348'}]",Rose P.  Rodrigues
+11612,SA 0012,A,3.000,Introduction to Drawing,"[{'days': 'MTWRF', 'times': '0830am-0430pm', 'dates': '01/06-01/12', 'location': 'LYL 22'}]",Kathryn J.  Yarrington
+11619,TX 0540,01,3.000,State and Local Taxation,"[{'days': 'W', 'times': '0630pm-0930pm', 'dates': '01/06-01/27', 'location': 'DSB 104'}, {'days': 'S', 'times': '0900am-0400pm', 'dates': '01/09-01/30', 'location': 'DSB 104'}, {'days': 'S', 'times': '0900am-1200pm', 'dates': '02/06-02/06', 'location': 'DSB 104'}]",Milo William  Peck

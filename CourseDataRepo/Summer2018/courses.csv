@@ -1,0 +1,314 @@
+crn,catalog_id,section,credits,title,meetings,primary_instructor
+58111,AC 0203,01,3.000,Intermediate Accounting I,"[{'days': 'MW', 'times': '0600pm-0930pm', 'dates': '05/21-06/27', 'location': 'DSB 112'}, {'days': 'R', 'times': '0600pm-0930pm', 'dates': '05/31-05/31', 'location': 'DSB 106'}]",Scott M  Brenner
+58112,AC 0204,01,3.000,Intermediate Accounting II,"[{'days': 'MW', 'times': '0600pm-0930pm', 'dates': '07/09-08/13', 'location': 'DSB 111'}]",Scott M  Brenner
+58151,AC 0391,01,3.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Sarah Jennie  Bollinger
+58296,AC 0392,01,3.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Sarah Jennie  Bollinger
+58453,AC 0393,01,1.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Sarah Jennie  Bollinger
+58201,AC 0400,01,3.000,Introduction to Accounting,"[{'days': 'MW', 'times': '0600pm-0930pm', 'dates': '05/21-06/18', 'location': 'DSB 104'}, {'days': 'S', 'times': '0830am-0430pm', 'dates': '06/09-06/16', 'location': 'DSB 106'}]",Michael P.  Coyne
+58124,AC 0510,01,3.000,Issues in a Regulatory Reporting Environment,"[{'days': 'W', 'times': '0600pm-0930pm', 'dates': '05/23-06/27', 'location': 'DSB 110A'}, {'days': 'S', 'times': '0900am-1230pm', 'dates': '05/26-06/30', 'location': 'DSB 109'}]",Stephen E.  Yost
+58125,AC 0510,02,3.000,Issues in a Regulatory Reporting Environment,"[{'days': 'W', 'times': '0600pm-0930pm', 'dates': '05/23-06/27', 'location': 'DSB 110A'}, {'days': 'S', 'times': '0100pm-0430pm', 'dates': '05/26-06/30', 'location': 'DSB 109'}]",Stephen E.  Yost
+58101,AC 0530,01,3.000,"Accounting for Governments, Hospitals, and Universities","[{'days': 'MWF', 'times': '0800am-1030am', 'dates': '06/04-07/02', 'location': 'DSB 112'}, {'days': 'RFS', 'times': '0800am-1030am', 'dates': '07/05-07/07', 'location': 'DSB 112'}]",Milo W.  Peck
+58102,AC 0530,02,3.000,"Accounting for Governments, Hospitals, and Universities","[{'days': 'MWF', 'times': '1100am-0130pm', 'dates': '06/04-07/02', 'location': 'DSB 112'}, {'days': 'RFS', 'times': '1100am-0130pm', 'dates': '07/05-07/07', 'location': 'DSB 112'}]",Milo W.  Peck
+58202,AC 0530,03,3.000,"Accounting for Governments, Hospitals, and Universities","[{'days': 'MWF', 'times': '0200pm-0430pm', 'dates': '06/04-07/02', 'location': 'DSB 112'}, {'days': 'RFS', 'times': '0200pm-0430pm', 'dates': '07/05-07/07', 'location': 'DSB 112'}]",Milo W.  Peck
+58103,AC 0580,01,3.000,Financial Statement Analysis,"[{'days': 'TF', 'times': '0930am-1230pm', 'dates': '05/22-05/25', 'location': 'NHS 224'}, {'days': 'TW', 'times': '0745am-1045am', 'dates': '05/23-05/29', 'location': 'DSB 108'}, {'days': 'R', 'times': '0930am-1230pm', 'dates': '05/31-05/31', 'location': 'NHS 224'}, {'days': 'TR', 'times': '0800am-1100am', 'dates': '06/05-07/03', 'location': 'DSB 115'}]",Lisa Suzanne  Haylon
+58104,AC 0580,02,3.000,Financial Statement Analysis,"[{'days': 'TF', 'times': '0930am-1230pm', 'dates': '05/22-05/25', 'location': 'NHS 224'}, {'days': 'WR', 'times': '1100am-0200pm', 'dates': '05/24-05/30', 'location': 'DSB 115'}, {'days': 'R', 'times': '0930am-1230pm', 'dates': '05/31-05/31', 'location': 'NHS 224'}, {'days': 'TR', 'times': '1200pm-0300pm', 'dates': '06/05-07/03', 'location': 'DSB 115'}]",Patricia M.  Poli
+58203,AC 0580,03,3.000,Financial Statement Analysis,"[{'days': 'TF', 'times': '0930am-1230pm', 'dates': '05/22-05/25', 'location': 'NHS 224'}, {'days': 'W', 'times': '0100pm-0400pm', 'dates': '05/23-05/23', 'location': 'DSB 111'}, {'days': 'T', 'times': '0630pm-0930pm', 'dates': '05/29-05/29', 'location': 'DSB 111'}, {'days': 'R', 'times': '0930am-1230pm', 'dates': '05/31-05/31', 'location': 'NHS 224'}, {'days': 'TR', 'times': '0400pm-0700pm', 'dates': '06/05-07/03', 'location': 'DSB 115'}]",Patricia M.  Poli
+58339,AS 0405A,01,3.000,"Special Topics: Study Away: Newport, Rhode Island: ""A Lively Experiment""","[{'days': 'R', 'times': '0630pm-0830pm', 'dates': '05/31-06/14', 'location': 'DMH 331'}, {'days': 'RFSU', 'times': 'TBA', 'dates': '06/21-06/24', 'location': 'BY ARR '}]",Kurt C.  Schlichting
+58419,ASHI 0442,01,3.000,"Immigration, Ethnicity, and Race in United States History","[{'days': 'MW', 'times': '0530pm-0800pm', 'dates': '07/09-08/08', 'location': 'CNS 9'}]",Cecelia F.  Bucki
+58219,AY 0110,OL1,3.000,Biological Anthropology,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/18', 'location': 'ONLINE '}]",Joseph A.  Wilson
+58146,AY 0111,OL1,3.000,Cultural Anthropology,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Sarah A.  Wessler
+58081,AE 0291,OL1,3.000,Business Ethics,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/18', 'location': 'ONLINE '}]",Lisa M.  Sticca-Conrod
+58172,AE 0293,01,3.000,Ethics of War and Peace,"[{'days': 'MTR', 'times': '0645pm-0955pm', 'dates': '07/09-08/02', 'location': 'DSB 106'}]",Norma   Schmidt
+58082,AE 0295,OL1,3.000,Ethics in Law and Society,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Lisa M.  Sticca-Conrod
+58001,AH 0011,OL1,3.000,Visual Culture Since 1400: Expression and Experimentation,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/18', 'location': 'ONLINE '}]",Lauren Elise  Cesiro
+58083,AH 0013,01,3.000,"Art of Africa, the Caribbean, and the Americas","[{'days': 'MTR', 'times': '0645pm-0955pm', 'dates': '06/04-06/28', 'location': 'CNS 6'}]",Dawn M.  Pilotti
+58156,AH 0013,AI1,3.000,"Art of Africa, the Caribbean, and the Americas","[{'days': 'MTWRF', 'times': '0900am-1100am', 'dates': '07/10-08/01', 'location': 'CNS 108'}]",Dawn M.  Pilotti
+58186,AH 0013,AI2,3.000,"Art of Africa, the Caribbean, and the Americas","[{'days': 'MTWRF', 'times': '0100pm-0300pm', 'dates': '07/10-08/01', 'location': 'CNS 6'}]",Dawn M.  Pilotti
+58217,AH 0193,01,3.000,"Inside Museums and Galleries: Taste, Place, Public Space","[{'days': 'MTWRF', 'times': '0830am-0430pm', 'dates': '05/23-05/30', 'location': 'CNS 6'}]",Philip I.  Eliasoph
+58155,BI 0070,OL1,3.000,"Science, Technology, and Society","[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/18', 'location': 'ONLINE '}]",Debra S.  Sauer
+58002,BI 0071,01,3.000,Identity and the Human Genome,"[{'days': 'MTWRF', 'times': '0930am-1230pm', 'dates': '07/09-07/20', 'location': 'BNW 256'}]",Olivia T.  Harriott
+58341,BI 0071,OL1,3.000,Identity and the Human Genome,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Christine R.  Rodriguez
+58187,BI 0076,AI1,3.000,Environmental Science,"[{'days': 'MTWRF', 'times': '0900am-1100am', 'dates': '07/10-08/01', 'location': 'BNW 127'}]",James E.  Biardi
+58188,BI 0076,AI2,3.000,Environmental Science,"[{'days': 'MTWRF', 'times': '0100pm-0300pm', 'dates': '07/10-08/01', 'location': 'BNW 127'}]",James E.  Biardi
+58342,BI 0078,OL1,3.000,Introduction to Marine Science,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Thomas B.  Cunningham
+58085,BI 0107,01,4.000,Human Anatomy and Physiology I,"[{'days': 'MWF', 'times': '0800am-1030am', 'dates': '06/04-07/06', 'location': 'BNW 139'}]",Anthony J.  DeCristofaro
+58086,BI 0107L,01,0.000,Human Anatomy and Physiology Lab I,"[{'days': 'TR', 'times': '0800am-1050am', 'dates': '06/04-07/06', 'location': 'BNW 240'}]",Anthony J.  DeCristofaro
+58087,BI 0108,01,4.000,Human Anatomy and Physiology II,"[{'days': 'MWF', 'times': '0800am-1030am', 'dates': '07/09-08/10', 'location': 'BNW 138'}]",Anthony J.  DeCristofaro
+58088,BI 0108L,01,0.000,Human Anatomy and Physiology Lab II,"[{'days': 'TR', 'times': '0800am-1050am', 'dates': '07/09-08/10', 'location': 'BNW 240'}]",Anthony J.  DeCristofaro
+58220,BI 0170,01,4.000,General Biology I,"[{'days': 'MTWRF', 'times': '1030am-1200pm', 'dates': '06/04-07/06', 'location': 'BNW 127'}]",Geoffrey A.  Church
+58221,BI 0170L,01,0.000,General Biology I Lab,"[{'days': 'MW', 'times': '0100pm-0350pm', 'dates': '06/04-07/02', 'location': 'BNW 261'}, {'days': 'R', 'times': '0100pm-0350pm', 'dates': '07/05-07/05', 'location': 'BNW 261'}]",Geoffrey A.  Church
+58110,BU 0211,01,3.000,Legal Environment of Business,"[{'days': 'TWRF', 'times': '0830am-0430pm', 'dates': '05/23-05/30', 'location': 'DSB 106'}]",Sharlene A.  McEvoy
+58448,BU 0395,01,3.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Sarah Jennie  Bollinger
+58449,BU 0397,01,1.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Sarah Jennie  Bollinger
+58431,BU 0591,01,3.000,Business Practicum,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/15', 'location': 'BY ARR '}]",Dawn W  Massey
+58166,BB 0121,01,0.000,SHRM Essentials of Human Resource Management,"[{'days': 'F', 'times': '0900am-0400pm', 'dates': '06/01-06/08', 'location': 'DSB 109'}]",Nancy L.  Varsos
+58116,BB 0134,01,0.000,Investment Planning,"[{'days': 'T', 'times': '0630pm-1000pm', 'dates': '06/12-08/21', 'location': 'DSB 2109A'}]",Paul A.  Rivera
+58366,BB 0138,01,0.000,Retirement Planning and Employer-Sponsored Benefits,"[{'days': 'M', 'times': '0630pm-1000pm', 'dates': '06/11-08/20', 'location': 'DSB 2109A'}]",Paul A.  Rivera
+58343,CH 0007,01,3.000,Introduction to Forensic Science,"[{'days': 'MTWRF', 'times': '0930am-1230pm', 'dates': '07/09-07/20', 'location': 'BNW 332'}]",Amanda S.  Harper-Leatherman
+58344,CH 0111,01,3.000,General Chemistry I,"[{'days': 'MTWRF', 'times': '0800am-1000am', 'dates': '06/04-07/06', 'location': 'BNW 334'}]",Sangamithra   Chintapalli
+58345,CH 0111L,01,1.000,General Chemistry I Lab,"[{'days': 'TWR', 'times': '1230pm-0330pm', 'dates': '06/04-07/06', 'location': 'BNW 361'}]",Jon J.  Harper
+58090,CH 0112,01,3.000,General Chemistry II,"[{'days': 'MTWRF', 'times': '0800am-1000am', 'dates': '07/09-08/10', 'location': 'BNW 334'}]",Sangamithra   Chintapalli
+58091,CH 0112L,01,1.000,General Chemistry II Lab,"[{'days': 'TWR', 'times': '1230pm-0330pm', 'dates': '07/09-08/10', 'location': 'BNW 361'}]",Jon J.  Harper
+58222,CH 0211,01,3.000,Organic Chemistry I,"[{'days': 'MTWRF', 'times': '0800am-1000am', 'dates': '06/04-07/06', 'location': 'BNW 333'}]",Donald J.  Wolanin
+58223,CH 0211L,01,1.000,Organic Chemistry I Lab,"[{'days': 'TWR', 'times': '1230pm-0430pm', 'dates': '06/04-07/06', 'location': 'BNW 339'}]",Omari   Ansong
+58224,CH 0212,01,3.000,Organic Chemistry II,"[{'days': 'MTWRF', 'times': '0800am-1000am', 'dates': '07/09-08/10', 'location': 'BNW 333'}]",Donald J.  Wolanin
+58225,CH 0212L,01,1.000,Organic Chemistry II Lab,"[{'days': 'TWR', 'times': '1230pm-0430pm', 'dates': '07/09-08/10', 'location': 'BNW 339'}]",Omari   Ansong
+58003,CO 0100,OL1,3.000,Human Communication Theories,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Qin   Zhang
+58123,CO 0101,OL1,3.000,Argument and Advocacy,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Audra Kate  Nuru
+58004,CO 0240,OL1,3.000,Intercultural Communication,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Qin   Zhang
+58452,CO 0397,MP,3.000,Independent Study,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Michael P.  Pagano
+58174,CO 0399,01,1.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Qin   Zhang
+58175,CO 0399,03,3.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Qin   Zhang
+58476,CO 0560,QZ,3.000,Thesis Proposal,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/15', 'location': 'BY ARR '}]",Qin   Zhang
+58436,CO 0598,AN,3.000,Independent Study,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Audra Kate  Nuru
+58438,CO 0598,NB,3.000,Independent Study,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Niall P.  Brennan
+58018,CN 0410,01,3.000,Grief and Loss Counseling,"[{'days': 'MTWRF', 'times': '0900am-0400pm', 'dates': '07/16-07/20', 'location': 'CNS 101'}]",Stephanie F.  Hall
+58019,CN 0433,01,3.000,Multicultural Issues in Counseling,"[{'days': 'MTWRF', 'times': '0900am-0400pm', 'dates': '07/30-08/03', 'location': 'CNS 108'}]",Courtland C  Lee
+58020,CN 0447,01,3.000,Lifespan Human Development,"[{'days': 'TR', 'times': '0900am-0500pm', 'dates': '05/21-06/01', 'location': 'CNS 203'}]",Virginia A.  Kelly
+58021,CN 0465,01,3.000,Introduction to Substance Abuse and Addictions,"[{'days': 'TR', 'times': '0430pm-0830pm', 'dates': '07/09-08/03', 'location': 'CNS 106'}]",Joseph A.  Graziano
+58055,CN 0515,01,3.000,Trauma and Crisis Intervention,"[{'days': 'MW', 'times': '0430pm-0830pm', 'dates': '06/05-07/03', 'location': 'CNS 104'}]",Tomichan   Aprame
+58381,CN 0557,01,3.000,Co-occuring Disorders in Substance Abuse and Addictions Counseling,"[{'days': 'MW', 'times': '0900am-0500pm', 'dates': '05/21-06/04', 'location': 'CNS 206'}]",Virginia A.  Kelly
+58167,CN 0590C,01,3.000,Internship: Clinical Mental Health Counseling,"[{'days': 'M', 'times': '0430pm-0700pm', 'dates': '05/21-08/06', 'location': 'DW G111'}]",Tracey   Robert
+58168,CN 0590C,02,3.000,Internship: Clinical Mental Health Counseling,"[{'days': 'M', 'times': '0430pm-0700pm', 'dates': '05/21-08/06', 'location': 'DW G108'}]",JoAnn M.  O'Connell
+58007,EC 0011,01,3.000,Introduction to Microeconomics,"[{'days': 'MTWRF', 'times': '0930am-1230pm', 'dates': '07/09-07/20', 'location': 'DMH 231'}]",Philip J.  Lane
+58368,EC 0011,02,3.000,Introduction to Microeconomics,"[{'days': 'MTR', 'times': '0645pm-0955pm', 'dates': '07/09-08/03', 'location': 'DMH 350'}]",Mark S.  Leclair
+58006,EC 0011,OL1,3.000,Introduction to Microeconomics,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/06', 'location': 'ONLINE '}]",William F.  Vasquez Mazariegos
+58008,EC 0012,OL1,3.000,Introduction to Macroeconomics,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/17', 'location': 'ONLINE '}]",William F.  Vasquez Mazariegos
+58471,EC 0299,01,3.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/15', 'location': 'BY ARR '}]",Sarah Jennie  Bollinger
+58022,ED 0405,01,3.000,Contexts of Education in the Primary Grades,"[{'days': 'MW', 'times': '0400pm-0800pm', 'dates': '07/09-08/03', 'location': 'CNS 10'}]",Claudia Schwarz  Wolen
+58475,ED 0459,01,3.000,Developmental Reading in the Secondary School,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/15', 'location': 'BY ARR '}]",Bryan R.  Crandall
+58023,ED 0497,01,3.000,Teaching Science in the Elementary Classroom,"[{'days': 'MTWR', 'times': '0430pm-0830pm', 'dates': '05/21-06/04', 'location': 'BNW 332'}]",Ryan P.  Colwell
+58024,ED 0499,01,3.000,Introduction to Educational Research,"[{'days': 'MW', 'times': '0400pm-0800pm', 'dates': '06/05-07/03', 'location': 'CNS 108'}]",Sarah-Jane   Henry
+58025,ED 0499,OL1,3.000,Introduction to Educational Research,"[{'days': '\xa0', 'times': 'TBA', 'dates': '06/04-07/03', 'location': 'ONLINE '}]",Barbara Lynn  Welles
+58382,ED 0511,01,3.000,Educating for Social Responsibility and Civic Engagement: A Capstone Seminar,"[{'days': 'TR', 'times': '0400pm-0800pm', 'dates': '06/05-07/03', 'location': 'CNS 9'}]",Terri L.  Germain-Williams
+58026,ED 0512,01,3.000,Contemporary Schooling in Society,"[{'days': 'TR', 'times': '0400pm-0800pm', 'dates': '06/05-07/03', 'location': 'CNS 10'}]",Romina A.  Pacheco
+58250,ED 0534,01,3.000,Theories of Learning,"[{'days': 'MW', 'times': '0430pm-0815pm', 'dates': '07/09-08/03', 'location': 'CNS 1'}]",Deborah L.  Edelman
+58385,ED 0561,01,0.000-4.000,Summer Institute in the Teaching of Writing,"[{'days': 'TWR', 'times': '0900am-0300pm', 'dates': '07/09-08/03', 'location': 'CNS 9'}]",Bryan R.  Crandall
+58027,ED 0572,01,3.000,Guided Research in Science,"[{'days': '\xa0', 'times': 'TBA', 'dates': '06/05-07/03', 'location': 'ONLINE '}, {'days': 'W', 'times': '0400pm-0600pm', 'dates': '06/06-06/06', 'location': 'CNS 106'}]",Bridget M.  Fine
+58409,ED 0599,01,3.000,Professional Writing Seminar: Product of Learning,"[{'days': 'TR', 'times': '0400pm-0800pm', 'dates': '05/08-05/17', 'location': 'CNS 5'}, {'days': 'TR', 'times': '0400pm-0800pm', 'dates': '06/12-06/26', 'location': 'CNS 104'}]",Bernadine   Krawczyk
+58254,MD 0400,OL1,3.000,Introduction to Educational Technology,"[{'days': '\xa0', 'times': 'TBA', 'dates': '06/06-07/03', 'location': 'ONLINE '}]",Joshua C.  Elliott
+58388,MD 0401G,OL1,3.000,Special Topics: Building Mobile Apps for Education,"[{'days': '\xa0', 'times': 'TBA', 'dates': '06/06-07/03', 'location': 'ONLINE '}]",Jay L.  Rozgonyi
+58389,MD 0469,01,3.000,Establishing Worldwide Learning Communities through Technology,"[{'days': 'MTWRF', 'times': '0900am-0300pm', 'dates': '07/23-07/27', 'location': 'CNS 101'}]",Joshua C.  Elliott
+58390,MD 0490,01,3.000,Achieving an Interdisciplinary Approach to Teaching through Technology,"[{'days': 'MTWRF', 'times': '0900am-0300pm', 'dates': '08/06-08/10', 'location': 'CNS 101'}]",Joshua C.  Elliott
+58433,MD 0585,01,3.000,Capstone Experience,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/03', 'location': 'BY ARR '}]",Joshua C.  Elliott
+58335,ECE 0423,OL1,3.000,Thermal Management of Microdevices,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/10', 'location': 'ONLINE '}]",Mehdi   Safari Qariq
+58228,EG 0060,01,3.000,STEM of Guitar,"[{'days': 'MTWRF', 'times': '0930am-1230pm', 'dates': '07/09-07/20', 'location': 'LYL 1'}]",Ryan A.  Munden
+58474,EG 0399,MZ,1.000,Independent Study: Introduction to Java,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/01-08/15', 'location': 'BY ARR '}]",Michael P.  Zabinski
+58346,EN 0011,01,3.000,Texts and Contexts I: Writing as Craft and Inquiry,"[{'days': 'MTWRF', 'times': '1030am-1230pm', 'dates': '07/09-08/03', 'location': 'DMH 331'}]",Rebecca Louise  Dimyan
+58093,EN 0012,OL1,3.000,Texts and Contexts II: Writing About Literature,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Gale J.  Bellas
+58347,EN 0012,OL2,3.000,Texts and Contexts II: Writing About Literature,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/18', 'location': 'ONLINE '}]",Katherine V.  Veilleux
+58348,EN 0102,OL1,3.000,Introduction to Contemporary World Literature,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Sally E.  O'Driscoll
+58350,EN 0141,OL1,3.000,Imagining Shakespeare,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Shannon E.  Kelley
+58468,EN 0141,OL2,3.000,Imagining Shakespeare,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/18', 'location': 'ONLINE '}]",Shannon E.  Kelley
+58229,EN 0161,01,3.000,Irish Literature,"[{'days': 'MTWRF', 'times': '1030am-1230pm', 'dates': '07/09-08/03', 'location': 'DMH 348'}]",Marion M.  White
+58351,EN 0163,OL1,3.000,The Literature of Illness and Healing: Wounded Storytellers and Dedicated Healers,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/18', 'location': 'ONLINE '}]",Jacqueline   Rinaldi
+58028,EN 0405,01,3.000,Literature for Young Adults,"[{'days': 'TR', 'times': '1000am-0230pm', 'dates': '07/09-08/03', 'location': 'DMH 350'}]",Mary Elizabeth  Nelson
+58010,ENW 0200,01,3.000,Creative Writing,"[{'days': 'MTWRF', 'times': '0930am-1230pm', 'dates': '07/09-07/20', 'location': 'DMH 347'}]",Laura Marie  Marciano
+58149,ENW 0346,EO,1.000-3.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/15', 'location': 'BY ARR '}]",Emily J.  Orlando
+58477,ENW 0346,SH,3.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/15', 'location': 'BY ARR '}]",Sonya R.  Huber
+58463,ENW 0347,MT,3.000,Independent Writing Project,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/15', 'location': 'BY ARR '}]",Matthew R.  Tullis
+58163,FI 0101,OL1,3.000,Introduction to Finance,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/17', 'location': 'ONLINE '}]",Walter F.  Hlawitschka
+58148,FI 0391,01,3.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Sarah Jennie  Bollinger
+58281,FI 0392,01,3.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Sarah Jennie  Bollinger
+58199,FI 0393,01,1.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Sarah Jennie  Bollinger
+58105,FI 0400,OL1,3.000,Principles of Finance,"[{'days': 'MTWRF', 'times': '0600pm-1000pm', 'dates': '07/27-08/04', 'location': 'ONLINE '}, {'days': 'S', 'times': '0830am-0430pm', 'dates': '07/27-08/04', 'location': 'ONLINE '}]",Thomas E.  Conine
+58106,FI 0560,01,3.000,Global Financial Markets and Institutions,"[{'days': 'MTWR', 'times': '0600pm-0930pm', 'dates': '05/21-05/24', 'location': 'DSB 108'}, {'days': 'S', 'times': '0830am-0430pm', 'dates': '05/21-06/02', 'location': 'DSB 106'}, {'days': 'TWRF', 'times': '0600pm-0930pm', 'dates': '05/28-06/02', 'location': 'DSB 108'}]",Philip J.  Lane
+58107,FI 0580,01,3.000,Financial Risk Management,"[{'days': 'MTWR', 'times': '0600pm-0930pm', 'dates': '08/13-08/25', 'location': 'DSB 109'}, {'days': 'S', 'times': '0830am-0430pm', 'dates': '08/18-08/25', 'location': 'DSB 109'}]",Nazli S.  Alan
+58094,HI 0010,01,3.000,Origins of the Modern World Since 1500,"[{'days': 'MTWRF', 'times': '0800am-1000am', 'dates': '06/04-06/29', 'location': 'CNS 106'}]",David W.  McFadden
+58095,HI 0239,01,3.000,20th Century United States,"[{'days': 'MTWRF', 'times': '1030am-1230pm', 'dates': '06/04-06/29', 'location': 'CNS 106'}]",David W.  McFadden
+58451,HI 0399,PB,3.000,Independent Study,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Patricia E.  Behre
+58113,IS 0100,OL1,3.000,Introduction to Information Systems,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Yasin   Ozcelik
+58198,IS 0391,01,3.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Sarah Jennie  Bollinger
+58441,IS 0550,01,3.000,Business Analytics and Big Data Management,"[{'days': 'MR', 'times': '0600pm-0930pm', 'dates': '06/04-06/30', 'location': 'DSB 108'}, {'days': 'S', 'times': '0830am-0430pm', 'dates': '06/16-06/23', 'location': 'DSB 108'}]",Jie   Tao
+58117,IN 0107,01C,3.000,Color Design,"[{'days': 'TR', 'times': '0930am-1230pm', 'dates': '05/29-06/07', 'location': 'DLH 107'}, {'days': 'T', 'times': '0930am-1230pm', 'dates': '06/12-07/31', 'location': 'DLH 107'}, {'days': 'R', 'times': '0930am-1230pm', 'dates': '07/05-07/05', 'location': 'DLH 107'}]",Robert A.  Hardy
+58118,IN 0107,01N,0.000,Color Design,"[{'days': 'TR', 'times': '0930am-1230pm', 'dates': '05/29-06/07', 'location': 'DLH 107'}, {'days': 'T', 'times': '0930am-1230pm', 'dates': '06/12-07/31', 'location': 'DLH 107'}, {'days': 'R', 'times': '0930am-1230pm', 'dates': '07/05-07/05', 'location': 'DLH 107'}]",Robert A.  Hardy
+58119,IN 0122,01C,3.000,Rendering,"[{'days': 'W', 'times': '1235pm-0335pm', 'dates': '05/30-06/06', 'location': 'DLH 107'}, {'days': 'F', 'times': '1235pm-0335pm', 'dates': '06/01-06/01', 'location': 'DLH 107'}, {'days': 'M', 'times': '1235pm-0335pm', 'dates': '06/04-07/30', 'location': 'DLH 107'}]",Robert A.  Hardy
+58177,IN 0122,01N,0.000,Rendering,"[{'days': 'W', 'times': '1235pm-0335pm', 'dates': '05/30-06/06', 'location': 'DLH 107'}, {'days': 'F', 'times': '1235pm-0335pm', 'dates': '06/01-06/01', 'location': 'DLH 107'}, {'days': 'M', 'times': '1235pm-0335pm', 'dates': '06/04-07/30', 'location': 'DLH 107'}]",Robert A.  Hardy
+58120,IN 0215,01C,3.000,Lighting for Interiors,"[{'days': 'TR', 'times': '0630pm-0930pm', 'dates': '05/29-06/07', 'location': 'DLH 107'}, {'days': 'T', 'times': '0630pm-0930pm', 'dates': '06/12-07/31', 'location': 'DLH 107'}, {'days': 'R', 'times': '0630pm-0930pm', 'dates': '07/05-07/05', 'location': 'DLH 107'}]",Robert A.  Hardy
+58405,IN 0215,01N,0.000,Lighting for Interiors,"[{'days': 'TR', 'times': '0630pm-0930pm', 'dates': '05/29-06/07', 'location': 'DLH 107'}, {'days': 'T', 'times': '0630pm-0930pm', 'dates': '06/12-07/31', 'location': 'DLH 107'}, {'days': 'R', 'times': '0630pm-0930pm', 'dates': '07/05-07/05', 'location': 'DLH 107'}]",Robert A.  Hardy
+58406,IN 0216,01C,3.000,Kitchen and Bath Design,"[{'days': 'TR', 'times': '0930am-1230pm', 'dates': '05/29-06/07', 'location': 'CNS 2'}, {'days': 'T', 'times': '0930am-1230pm', 'dates': '06/12-07/31', 'location': 'CNS 2'}, {'days': 'R', 'times': '0930am-1230pm', 'dates': '07/05-07/05', 'location': 'CNS 2'}]",Veronica P.  Whitlock
+58407,IN 0216,01N,0.000,Kitchen and Bath Design,"[{'days': 'TR', 'times': '0930am-1230pm', 'dates': '05/29-06/07', 'location': 'CNS 2'}, {'days': 'T', 'times': '0930am-1230pm', 'dates': '06/12-07/31', 'location': 'CNS 2'}, {'days': 'R', 'times': '0930am-1230pm', 'dates': '07/05-07/05', 'location': 'CNS 2'}]",Veronica P.  Whitlock
+58121,IN 0220,01C,3.000,Perspective Techniques,"[{'days': 'W', 'times': '0930am-1230pm', 'dates': '05/30-06/06', 'location': 'DLH 107'}, {'days': 'F', 'times': '0930am-1230pm', 'dates': '06/01-06/01', 'location': 'DLH 107'}, {'days': 'M', 'times': '0930am-1230pm', 'dates': '06/04-07/30', 'location': 'DLH 107'}]",Robert A.  Hardy
+58122,IN 0220,01N,0.000,Perspective Techniques,"[{'days': 'W', 'times': '0930am-1230pm', 'dates': '05/30-06/06', 'location': 'DLH 107'}, {'days': 'F', 'times': '0930am-1230pm', 'dates': '06/01-06/01', 'location': 'DLH 107'}, {'days': 'M', 'times': '0930am-1230pm', 'dates': '06/04-07/30', 'location': 'DLH 107'}]",Robert A.  Hardy
+58192,IL 0298,01,0.000-3.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Anita G.  Deeg-Carlin
+58330,MG 0380,OL1,3.000,"Performance, Compensation, and Reward","[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Mousumi   Bhattacharya
+58157,MG 0391,01,3.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Sarah Jennie  Bollinger
+58153,MG 0393,01,1.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Sarah Jennie  Bollinger
+58200,MG 0400,OL1,3.000,Organizational Behavior,"[{'days': '\xa0', 'times': 'TBA', 'dates': '06/04-06/30', 'location': 'ONLINE '}]",Lisa   Stafford
+58108,MG 0500,01,3.000,Leadership,"[{'days': 'MTWR', 'times': '0600pm-0930pm', 'dates': '08/13-08/23', 'location': 'DSB 112'}, {'days': 'S', 'times': '0830am-0430pm', 'dates': '08/18-08/25', 'location': 'DSB 112'}]",Lisa A.  Mainiero
+58164,MG 0540,01,3.000,Cross-Cultural Management,"[{'days': 'MW', 'times': '0600pm-0930pm', 'dates': '06/04-06/30', 'location': 'DSB 105'}, {'days': 'S', 'times': '0830am-0430pm', 'dates': '06/16-06/23', 'location': 'DSB 105'}]",Carl A.  Scheraga
+58206,MOT 0420,01,3.000,Design for Economy and Reliability,"[{'days': 'W', 'times': '0600pm-1000pm', 'dates': '05/21-08/01', 'location': 'BNW 127'}]",Kevin J.  Violette
+58204,MK 0101,OL1,3.000,Principles of Marketing,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Camelia   Micu
+58333,MK 0241,OL1,3.000,Digital Marketing,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/18', 'location': 'ONLINE '}]",Camelia   Micu
+58152,MK 0391,01,3.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Sarah Jennie  Bollinger
+58154,MK 0393,01,1.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Sarah Jennie  Bollinger
+58109,MK 0400,OL1,3.000,Marketing Management,"[{'days': '\xa0', 'times': 'TBA', 'dates': '08/06-08/25', 'location': 'ONLINE '}]",Gerald O.  Cavallo
+58205,MK 0580,OL1,3.000,Multivariate Data Analysis for Decision Making,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/04', 'location': 'ONLINE '}]",Michael R.  Sciandra
+58402,FT 0425,01,3.000,Private Practice and Small Business Management,"[{'days': 'MTWR', 'times': '0830am-0445pm', 'dates': '06/25-06/28', 'location': 'CNS 101'}]",Carrie Meredith  Rosenbloom
+58029,FT 0433,01,3.000,Social Justice and Diversity in Professional Practice,"[{'days': 'RF', 'times': '0900am-0400pm', 'dates': '06/15-06/29', 'location': 'CNS 108'}]",Sooyeon   Lee-Garland
+58030,FT 0447,01,3.000,Lifespan Human Development,"[{'days': 'TR', 'times': '0900am-0500pm', 'dates': '05/21-06/01', 'location': 'CNS 203'}]",Virginia A.  Kelly
+58031,FT 0465,01,3.000,Introduction to Substance Abuse and Addictions,"[{'days': 'TR', 'times': '0430pm-0830pm', 'dates': '07/09-08/03', 'location': 'CNS 106'}]",Joseph A.  Graziano
+58251,FT 0470,01,3.000,Professional Practice with LGBTQ Youth and Families,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/03', 'location': 'ONLINE '}, {'days': 'T', 'times': '1000am-0500pm', 'dates': '07/17-07/17', 'location': 'CNS 108'}, {'days': 'T', 'times': '1000am-0500pm', 'dates': '07/31-07/31', 'location': 'CNS 101'}]",Erica E.  Hartwell
+58032,FT 0550,01,3.000,Introduction to Marriage and Family Therapy,"[{'days': 'TWR', 'times': '1000am-0430pm', 'dates': '06/05-06/13', 'location': 'CNS 206'}]",Maryann Hayes  LaBella
+58033,FT 0552,01,3.000,Intervention in Structural and Strategic Family Therapy,"[{'days': 'MTW', 'times': '1030am-0530pm', 'dates': '05/21-05/30', 'location': 'CNS 108'}]",Rona   Preli
+58034,FT 0553,01,3.000,Family Therapy Pre-Practicum,"[{'days': 'MTWRF', 'times': '0900am-1230pm', 'dates': '06/04-06/15', 'location': 'SWH 102'}]",Nicole B.  O'Brien
+58387,FT 0553,02,3.000,Family Therapy Pre-Practicum,"[{'days': 'MTWRF', 'times': '0130pm-0500pm', 'dates': '06/04-06/15', 'location': 'SWH 102'}]",Nicole B.  O'Brien
+58056,FT 0559,01,3.000,Practicum in Family Therapy I,"[{'days': 'M', 'times': '0200pm-0700pm', 'dates': '06/04-08/01', 'location': 'SWH 102'}]",Leah P.  Brown
+58057,FT 0559,02,3.000,Practicum in Family Therapy I,"[{'days': 'R', 'times': '0300pm-0800pm', 'dates': '06/04-08/01', 'location': 'SWH 102'}]",Christine B.  Walker
+58035,FT 0560,01,3.000,Practicum in Family Therapy II,"[{'days': 'M', 'times': '0200pm-0700pm', 'dates': '06/04-08/01', 'location': 'SWH 102'}]",Leah P.  Brown
+58058,FT 0560,02,3.000,Practicum in Family Therapy II,"[{'days': 'R', 'times': '0300pm-0800pm', 'dates': '06/04-08/01', 'location': 'SWH 102'}]",Christine B.  Walker
+58036,FT 0580,01,3.000,Internship in Family Therapy I,"[{'days': 'M', 'times': '1200pm-0130pm', 'dates': '06/04-08/01', 'location': 'SWH 102'}]",Maryann Hayes  LaBella
+58037,FT 0580,02,3.000,Internship in Family Therapy I,"[{'days': 'M', 'times': '1200pm-0130pm', 'dates': '06/04-08/01', 'location': 'SWH 102'}]",Rona   Preli
+58169,FT 0581,01,3.000,Internship in Family Therapy II,"[{'days': 'M', 'times': '1200pm-0130pm', 'dates': '06/04-08/01', 'location': 'SWH 102'}]",Maryann Hayes  LaBella
+58191,FT 0581,02,3.000,Internship in Family Therapy II,"[{'days': 'M', 'times': '1200pm-0130pm', 'dates': '06/04-08/01', 'location': 'SWH 102'}]",Rona   Preli
+58170,FT 0582,01,1.000,Continuing Internshp in Family Therapy,"[{'days': '\xa0', 'times': 'TBA', 'dates': '06/06-08/01', 'location': 'BY ARR '}]",Nicole B.  O'Brien
+58434,MA 0016,01,3.000,Concepts of Calculus,"[{'days': 'MTWRF', 'times': '1030am-1230pm', 'dates': '06/04-06/29', 'location': 'BNW GR22'}]",Daniel J.  Ryan
+58012,MA 0017,01,3.000,Introduction to Probability and Statistics,"[{'days': 'MTWRF', 'times': '0800am-1000am', 'dates': '06/04-06/29', 'location': 'NHS 405'}]",Mary V.  Grant
+58013,MA 0119,01,3.000,Applied Calculus I,"[{'days': 'MTWRF', 'times': '1030am-1230pm', 'dates': '06/04-06/29', 'location': 'NHS 405'}]",Edward T.  Giegengack
+58014,MA 0120,01,3.000,Applied Calculus II,"[{'days': 'MTWRF', 'times': '1030am-1230pm', 'dates': '07/09-08/03', 'location': 'BNW 334'}]",Edward T.  Giegengack
+58352,MA 0217,OL1,3.000,Accelerated Statistics,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Irene T.  Mulvey
+58450,MA 0217,OL2,3.000,Accelerated Statistics,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Irene T.  Mulvey
+58420,MA 0495C,01,3.000,Special Topics: Cryptography,"[{'days': 'MW', 'times': '0600pm-0900pm', 'dates': '07/09-08/18', 'location': 'BNW 341'}]",Benjamin   Fine
+58353,MA 0510,01,3.000,Foundations and Set Theory,"[{'days': 'TR', 'times': '0600pm-0900pm', 'dates': '07/10-08/14', 'location': 'BNW 341'}]",Matthew C.  Duckett
+58354,MA 0550,01,3.000,Classical Financial Mathematics,"[{'days': 'MW', 'times': '0600pm-0900pm', 'dates': '05/23-07/02', 'location': 'BNW 340'}]",Alan   Anderson
+58455,MA 0590,BF,0.000,Capstone Project,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/15', 'location': 'BY ARR '}]",Benjamin   Fine
+58472,MA 0599,PB,3.000,Independent Study,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/15', 'location': 'BY ARR '}]",Paul   Baginski
+58141,ME 0362,OL1,3.000,Turbomachinery,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/10', 'location': 'ONLINE '}]",Shahrokh   Etemad
+58336,ME 0423,OL1,3.000,Thermal Management of Microdevices,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/10', 'location': 'ONLINE '}]",Mehdi   Safari Qariq
+58144,ME 0453,OL1,3.000,Turbomachinery,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/10', 'location': 'ONLINE '}]",Shahrokh   Etemad
+58235,MU 0102,01,3.000,History and Development of Rock,"[{'days': 'MTWRF', 'times': '0830am-0430pm', 'dates': '05/23-05/30', 'location': 'JGS 25'}]",Brian Q.  Torff
+58236,MU 0104,OL1,3.000,History of Music: 1700-1964,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/18', 'location': 'ONLINE '}]",Michael Anthony  Ciavaglia
+58237,MU 0201,OL1,3.000,Hip-Hop and Its Antecedants,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Laura   Nash
+58356,MU 0201,OL2,3.000,Hip-Hop and Its Antecedants,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Andrew P  Virdin
+58060,NS 0110,01,3.000,Introduction to Professional Nursing,"[{'days': 'MTWRF', 'times': '0800am-0400pm', 'dates': '06/01-06/08', 'location': 'NHS 204'}, {'days': 'M', 'times': '0800am-1130am', 'dates': '06/11-06/11', 'location': 'NHS 204'}]",Carole A.  Pomarico
+58061,NS 0112,01,3.000,Healthcare Delivery Systems,"[{'days': 'M', 'times': '1200pm-0400pm', 'dates': '06/11-06/11', 'location': 'NHS 203'}, {'days': 'MTWRF', 'times': '0800am-0400pm', 'dates': '06/12-06/19', 'location': 'NHS 203'}]",Sally O.  Gerard
+58062,NS 0112,OL1,3.000,Healthcare Delivery Systems,"[{'days': '\xa0', 'times': 'TBA', 'dates': '06/04-07/06', 'location': 'ONLINE '}]",Jessica   Planas
+58063,NS 0270,01,4.000,Health Assessment,"[{'days': 'MTWRF', 'times': '0800am-1130am', 'dates': '06/20-06/29', 'location': 'NHS 204'}, {'days': 'MTWRF', 'times': '1200pm-0400pm', 'dates': '06/20-06/29', 'location': 'NHS 308'}, {'days': 'MTWRF', 'times': '1200pm-0400pm', 'dates': '06/20-06/29', 'location': 'NHS 205'}]",Mary M  Murphy
+58064,NS 0270L,01,0.000,Health Assessment Lab,"[{'days': '\xa0', 'times': 'TBA', 'dates': '06/20-06/29', 'location': 'BY ARR '}]",Danielle E.  Hall
+58179,NS 0270L,02,0.000,Health Assessment Lab,"[{'days': '\xa0', 'times': 'TBA', 'dates': '06/20-06/29', 'location': 'BY ARR '}]",Sheila S.  Iacono
+58180,NS 0270L,03,0.000,Health Assessment Lab,"[{'days': '\xa0', 'times': 'TBA', 'dates': '06/20-06/29', 'location': 'BY ARR '}]",Laura A.  Conklin
+58065,NS 0272,01,4.000,Geriatric Nursing,"[{'days': 'MTWRF', 'times': '0830am-0300pm', 'dates': '07/05-07/11', 'location': 'NHS 204'}, {'days': 'F', 'times': '0830am-0300pm', 'dates': '07/20-07/20', 'location': 'NHS 204'}, {'days': 'M', 'times': '0900am-1200pm', 'dates': '07/23-07/23', 'location': 'NHS 204'}]",Kathleen D.  Lovanio
+58066,NS 0272C,01,0.000,Geriatric Nursing Clinical,"[{'days': 'MTWRF', 'times': '0700am-0200pm', 'dates': '07/12-07/19', 'location': 'NWG '}]",Patricia A.  Lamb
+58067,NS 0272C,02,0.000,Geriatric Nursing Clinical,"[{'days': 'MTWRF', 'times': '0700am-0200pm', 'dates': '07/12-07/19', 'location': 'JHE '}]",Mary Anne   Caserta
+58068,NS 0272C,03,0.000,Geriatric Nursing Clinical,"[{'days': 'MTWRF', 'times': '0700am-0200pm', 'dates': '07/12-07/19', 'location': 'JHE '}]",Amanda   Costella
+58069,NS 0272C,04,0.000,Geriatric Nursing Clinical,"[{'days': 'MTWRF', 'times': '0700am-0200pm', 'dates': '07/12-07/19', 'location': 'NWG '}]",Kelly Ann  Sullivan
+58147,NS 0272C,05,0.000,Geriatric Nursing Clinical,"[{'days': 'MTWRF', 'times': '0700am-0200pm', 'dates': '07/12-07/19', 'location': 'VA '}]",Laura A.  Conklin
+58207,NS 0272C,06,0.000,Geriatric Nursing Clinical,"[{'days': 'MTWRF', 'times': '0700am-0200pm', 'dates': '07/12-07/19', 'location': 'LCH '}]",Jeanne G.  Arsenault
+58369,NS 0272C,07,0.000,Geriatric Nursing Clinical,"[{'days': 'MTWRF', 'times': '0700am-0200pm', 'dates': '07/12-07/19', 'location': 'LCH '}]",Kathleen D.  Lovanio
+58370,NS 0272C,08,0.000,Geriatric Nursing Clinical,"[{'days': 'MTWRF', 'times': '0700am-0200pm', 'dates': '07/12-07/19', 'location': 'LUDLW '}]",Hilary Anne  Bartholomay
+58070,NS 0307,01,4.000,Fundamentals of Nursing Care,"[{'days': 'MTWRF', 'times': '0900am-0400pm', 'dates': '07/30-08/17', 'location': 'NHS 204'}, {'days': 'MTWRF', 'times': '0900am-0400pm', 'dates': '07/30-08/17', 'location': 'NHS 205'}, {'days': 'MTWRF', 'times': '0900am-0400pm', 'dates': '07/30-08/17', 'location': 'NHS 308'}]",Katherine Marie  Saracino
+58071,NS 0307L,01,0.000,Fundamentals of Nursing Care Lab,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/30-08/17', 'location': 'BY ARR '}]",Susan B  Reynolds
+58182,NS 0307L,02,0.000,Fundamentals of Nursing Care Lab,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/30-08/17', 'location': 'BY ARR '}]",Laura A.  Conklin
+58183,NS 0307L,03,0.000,Fundamentals of Nursing Care Lab,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/30-08/17', 'location': 'BY ARR '}]",Mary M  Murphy
+58454,NS 0307L,04,0.000,Fundamentals of Nursing Care Lab,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/30-08/17', 'location': 'BY ARR '}]",Susan N.  Bartos
+58072,NS 0312,01,5.000,Medical Surgical Nursing I,"[{'days': 'MT', 'times': '0800am-0100pm', 'dates': '05/21-05/22', 'location': 'NHS 410'}, {'days': 'T', 'times': '0800am-0100pm', 'dates': '05/29-05/29', 'location': 'NHS 410'}, {'days': 'M', 'times': '0800am-0100pm', 'dates': '06/04-06/04', 'location': 'NHS 410'}, {'days': 'R', 'times': '0800am-0100pm', 'dates': '06/07-06/07', 'location': 'NHS 410'}, {'days': 'R', 'times': '0800am-0100pm', 'dates': '06/14-06/14', 'location': 'NHS 410'}, {'days': 'MTW', 'times': '0800am-1200pm', 'dates': '06/18-06/20', 'location': 'NHS 410'}, {'days': 'R', 'times': '0800am-1000am', 'dates': '06/21-06/21', 'location': 'NHS 410'}]",Rose   Iannino-Renz
+58073,NS 0312C,01,0.000,Medical Surgical Nursing I Clinical,"[{'days': 'W', 'times': '0700am-1100am', 'dates': '05/23-05/23', 'location': 'VA '}, {'days': 'WR', 'times': '0700am-0500pm', 'dates': '05/24-05/31', 'location': 'VA '}, {'days': 'MTW', 'times': '0700am-0500pm', 'dates': '06/05-06/13', 'location': 'VA '}]",Laura A.  Conklin
+58371,NS 0312C,02,0.000,Medical Surgical Nursing I Clinical,"[{'days': 'W', 'times': '0700am-1100am', 'dates': '05/23-05/23', 'location': 'STV '}, {'days': 'WR', 'times': '0700am-0500pm', 'dates': '05/24-05/31', 'location': 'STV '}, {'days': 'MTW', 'times': '0700am-0500pm', 'dates': '06/05-06/13', 'location': 'STV '}]",Rose   Iannino-Renz
+58208,NS 0314,01,4.000,Maternal and Newborn Nursing,"[{'days': 'TR', 'times': '0900am-0100pm', 'dates': '06/05-07/12', 'location': 'NHS 224'}]",Christa Palancia  Esposito
+58209,NS 0314C,01,0.000,Maternal and Newborn Nursing Clinical,"[{'days': 'MWF', 'times': '0700am-0200pm', 'dates': '06/04-06/15', 'location': 'STAMH '}]",Kelly Ann  Sullivan
+58210,NS 0314C,02,0.000,Maternal and Newborn Nursing Clinical,"[{'days': 'MWF', 'times': '0700am-0200pm', 'dates': '06/18-06/29', 'location': 'STAMH '}]",Kelly Ann  Sullivan
+58211,NS 0314C,03,0.000,Maternal and Newborn Nursing Clinical,"[{'days': 'MW', 'times': '0700am-0400pm', 'dates': '06/04-06/11', 'location': 'BH '}, {'days': 'M', 'times': '0700am-0400pm', 'dates': '07/02-07/09', 'location': 'BH '}]",Carrie   Wolf
+58212,NS 0314C,04,0.000,Maternal and Newborn Nursing Clinical,"[{'days': 'F', 'times': '0700am-0530pm', 'dates': '06/08-06/08', 'location': 'BH '}, {'days': 'F', 'times': '0700am-0530pm', 'dates': '06/29-07/13', 'location': 'BH '}]",Heather E.  Kovac
+58213,NS 0314C,05,0.000,Maternal and Newborn Nursing Clinical,"[{'days': 'WF', 'times': '0700am-0530pm', 'dates': '06/06-06/15', 'location': 'WTBRY '}]",Suzanne T.  Turner
+58214,NS 0314C,06,0.000,Maternal and Newborn Nursing Clinical,"[{'days': 'WF', 'times': '0700am-0530pm', 'dates': '06/20-06/29', 'location': 'WTBRY '}]",Suzanne T.  Turner
+58215,NS 0314C,07,0.000,Maternal and Newborn Nursing Clinical,"[{'days': 'U', 'times': '0700am-0700pm', 'dates': '06/10-07/01', 'location': 'WTBRY '}]",Vanessa Adema  Daou
+58373,NS 0314C,08,0.000,Maternal and Newborn Nursing Clinical,"[{'days': 'WFU', 'times': '0700am-0530pm', 'dates': '07/06-07/13', 'location': 'WTBRY '}]",Suzanne T.  Turner
+58074,NS 0330,OL1,4.000,"Community, Public, and Global Health Nursing","[{'days': '\xa0', 'times': 'TBA', 'dates': '05/11-05/21', 'location': 'ONLINE '}]",Diana R.  Mager
+58075,NS 0330C,01,0.000,"Community, Public, and Global Health Nursing Clinical","[{'days': 'TWR', 'times': '0800am-0430pm', 'dates': '05/22-05/31', 'location': 'STV '}]",Kathleen D.  Lovanio
+58076,NS 0330C,02,0.000,"Community, Public, and Global Health Nursing Clinical","[{'days': 'TWR', 'times': '0800am-0430pm', 'dates': '05/22-05/31', 'location': 'MILY '}, {'days': 'W', 'times': '1200pm-0300pm', 'dates': '05/23-05/23', 'location': 'BNW 341'}]",Geraldine M.  Chalykoff
+58077,NS 0330C,03,0.000,"Community, Public, and Global Health Nursing Clinical","[{'days': 'TWR', 'times': '0800am-0430pm', 'dates': '05/22-05/31', 'location': 'VA '}]",Laura A.  Conklin
+58078,NS 0330C,04,0.000,"Community, Public, and Global Health Nursing Clinical","[{'days': 'TWR', 'times': '0800am-0430pm', 'dates': '05/22-05/31', 'location': 'BPS '}]",Jessica   Planas
+58079,NS 0330C,05,0.000,"Community, Public, and Global Health Nursing Clinical","[{'days': 'TWR', 'times': '0800am-0430pm', 'dates': '05/22-05/31', 'location': 'NCRGUA '}]",Lydia H.  Greiner
+58375,NS 0330C,06,0.000,"Community, Public, and Global Health Nursing Clinical","[{'days': 'TWR', 'times': '0800am-0430pm', 'dates': '05/22-05/31', 'location': 'BPS '}, {'days': 'TWR', 'times': '0800am-0200pm', 'dates': '05/22-05/31', 'location': 'NHS 407'}]",Kelly Ann  Sullivan
+58445,NS 0330C,07,0.000,"Community, Public, and Global Health Nursing Clinical","[{'days': 'TWR', 'times': '0800am-0430pm', 'dates': '05/22-05/31', 'location': 'NHD '}]",Theresa Tavella  Quell
+58080,NS 0332,01,4.000,Transition to Professional Nursing,"[{'days': 'F', 'times': '0800am-0830am', 'dates': '06/01-06/01', 'location': 'NHS 204'}, {'days': 'F', 'times': '0100pm-0200pm', 'dates': '06/01-06/01', 'location': 'NHS 204'}, {'days': 'MTWRF', 'times': '0830am-0430pm', 'dates': '07/16-08/17', 'location': 'NHS 203'}]",Mary M  Murphy
+58190,NS 0332C,01,0.000,Transition to Professional Nursing Clinical,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/16-08/17', 'location': 'BY ARR '}]",TBA
+58376,NS 0602,01,3.000,Healthcare Economics and Marketing,"[{'days': 'W', 'times': '0500pm-0730pm', 'dates': '06/06-06/06', 'location': 'NHS 405'}, {'days': 'W', 'times': '0500pm-0730pm', 'dates': '06/20-06/20', 'location': 'NHS 405'}, {'days': 'W', 'times': '0500pm-0730pm', 'dates': '07/11-07/11', 'location': 'NHS 405'}, {'days': 'W', 'times': '0500pm-0730pm', 'dates': '08/08-08/08', 'location': 'NHS 405'}]",Anna-Maria   Aksan
+58377,NS 0604,01,4.000,Advanced Health Assessment,"[{'days': 'W', 'times': '0500pm-0900pm', 'dates': '05/21-08/17', 'location': 'NHS 204'}]",Jaclyn Elizabeth  Conelius
+58126,NS 0605,01,3.000,Advanced Healthcare Policy,"[{'days': 'T', 'times': '0500pm-0730pm', 'dates': '05/22-05/22', 'location': 'NHS 210'}, {'days': 'T', 'times': '0500pm-0730pm', 'dates': '06/26-06/26', 'location': 'NHS 210'}, {'days': 'T', 'times': '0500pm-0730pm', 'dates': '07/24-07/24', 'location': 'NHS 210'}]",Karen H.  Burrows
+58127,NS 0611,01,3.000,Population Health,"[{'days': 'M', 'times': '0500pm-0800pm', 'dates': '05/21-05/21', 'location': 'NHS 404'}, {'days': 'T', 'times': '0900am-0100pm', 'dates': '05/22-05/29', 'location': 'NHS 404'}, {'days': 'T', 'times': '1100am-0100pm', 'dates': '06/05-06/05', 'location': 'NHS 404'}, {'days': 'T', 'times': '0600pm-0800pm', 'dates': '06/19-06/19', 'location': 'NHS 404'}]",Diana R.  Mager
+58128,NS 0612,01,3.000,Research Translation for Clinical Practice,"[{'days': 'W', 'times': '0500pm-0730pm', 'dates': '05/23-05/30', 'location': 'NHS 410'}, {'days': 'FS', 'times': '0830am-0430pm', 'dates': '06/08-06/09', 'location': 'NHS 411'}, {'days': 'FS', 'times': '0830am-0430pm', 'dates': '06/22-06/23', 'location': 'NHS 411'}, {'days': 'F', 'times': '0830am-0430pm', 'dates': '07/06-07/06', 'location': 'NHS 411'}]",Eileen R.  O'Shea
+58216,NS 0614,01,3.000,Information Technology for Healthcare Improvement,"[{'days': 'T', 'times': '0500pm-0730pm', 'dates': '05/29-05/29', 'location': 'NHS 410'}, {'days': 'T', 'times': '0500pm-0730pm', 'dates': '06/19-06/19', 'location': 'NHS 410'}, {'days': 'T', 'times': '0500pm-0730pm', 'dates': '07/17-07/17', 'location': 'NHS 410'}]",Karen H.  Burrows
+58129,NS 0641,01,3.000,Advanced Pharmacology,"[{'days': 'R', 'times': '0500pm-0730pm', 'dates': '05/21-08/17', 'location': 'NHS 411'}]",Ralph V.  Tremaglio
+58130,NS 0644,01,4.000,Practicum in Adult Health I,"[{'days': 'W', 'times': '0500pm-0830pm', 'dates': '05/23-05/23', 'location': 'NHS 403'}, {'days': 'W', 'times': 'TBA', 'dates': '06/20-06/20', 'location': 'ONLINE '}, {'days': 'W', 'times': 'TBA', 'dates': '07/18-07/18', 'location': 'ONLINE '}, {'days': 'W', 'times': '0500pm-0830pm', 'dates': '08/15-08/15', 'location': 'NHS 403'}]",Rose   Iannino-Renz
+58131,NS 0666A,01,4.000,Practicum I: PMHNP,"[{'days': 'T', 'times': '0500pm-0600pm', 'dates': '05/22-05/22', 'location': 'NHS 405'}, {'days': 'T', 'times': '0100pm-0400pm', 'dates': '08/14-08/14', 'location': 'NHS 405'}]",Kathleen A.  Wheeler
+58185,NS 0667,01,2.000,Psychopharmacology,"[{'days': 'W', 'times': '0500pm-0800pm', 'dates': '05/21-07/25', 'location': 'NHS 411'}]",Michael Peter  O'Toole
+58132,NS 0670,01,3.000,Human Anatomy and Physiology for Nurse Anesthetists,"[{'days': 'TR', 'times': '0100pm-0400pm', 'dates': '05/21-07/17', 'location': 'NHS 411'}]",Christine   Earls
+58133,NS 0687,01,1.000-6.000,DNP Immersion,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/17', 'location': 'BY ARR '}]",Joyce Muriel  Shea
+58134,NS 0687,02,1.000-6.000,DNP Immersion,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/17', 'location': 'BY ARR '}]",Nancy A.  Moriber
+58467,NS 0687F,01,1.000,DNP Immersion,"[{'days': 'TBA', 'times': '0', 'dates': 'TBA', 'location': 'IDEA Course Eval - NO'}]",05/21-08/17
+58466,NS 0698,KW,2.000,Independent Study,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/17', 'location': 'BY ARR '}]",Kathleen A.  Wheeler
+58135,NSAN 0673,01,3.000,Chemistry and Physics for Nurse Anesthetists,"[{'days': 'W', 'times': '1230pm-0430pm', 'dates': '05/21-08/17', 'location': 'NHS 411'}]",Nancy A.  Moriber
+58136,NSAN 0675,01,1.000,Clinical Orientation and Specialty Rotations,"[{'days': 'WR', 'times': '0700am-1200pm', 'dates': '05/21-08/17', 'location': 'NHS 411'}]",Nancy A.  Moriber
+58137,NSAN 0678,01,2.000,Regional Anesthesia and Pain Management in Clinical Practice,"[{'days': 'W', 'times': '0100pm-0500pm', 'dates': '05/21-08/17', 'location': 'NHS 210'}]",Steven Lewis  Belmont
+58138,NSAN 0680,01,2.000,Clinical Practicum III,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/17', 'location': 'BY ARR '}]",Nancy A.  Moriber
+58139,NSAN 0687,01,3.000,Principles of Nurse Anesthesia Practice II,"[{'days': 'MR', 'times': '1230pm-0330pm', 'dates': '05/21-08/17', 'location': 'NHS 210'}]",John J.  Orazietti
+58378,NSMW 0623,01,3.000,Women's Primary Care and Gynecological Health II,"[{'days': 'W', 'times': '0900am-0200pm', 'dates': '06/06-08/15', 'location': 'NHS 208'}]",Christa Palancia  Esposito
+58379,NSMW 0624,01,3.000,Women's Primary Care and Gynecological Health Clinical,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/17', 'location': 'BY ARR '}]",Christa Palancia  Esposito
+58114,OM 0101,OL1,3.000,Operations Management,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Xin Xin   He
+58397,OM 0400,OL1,3.000,Principles of Business Analytics,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/04', 'location': 'ONLINE '}]",Neal A.  Lewis
+58015,PH 0101,01,3.000,Introduction to Philosophy,"[{'days': 'MTWRF', 'times': '0100pm-0300pm', 'dates': '06/04-06/29', 'location': 'CNS 106'}]",Jason A.  Smith
+58357,PH 0215,01,3.000,Philosophy of Science,"[{'days': 'MTWRF', 'times': '1030am-1230pm', 'dates': '07/09-08/03', 'location': 'CNS 6'}]",Eric   Guindon
+58358,PH 0217,01,3.000,Logic,"[{'days': 'MTWRF', 'times': '1030am-1230pm', 'dates': '06/04-06/29', 'location': 'CNS 103'}]",J. Brooks   Colburn
+58097,PS 0078,OL1,3.000,The Nature of the Universe,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Joachim   Kuhn
+58239,PS 0115,01,3.000,General Physics I,"[{'days': 'MTWRF', 'times': '0800am-1000am', 'dates': '06/04-06/29', 'location': 'BNW 253'}]",Bidyut B.  Das
+58240,PS 0115L,01,1.000,General Physics I Lab,"[{'days': 'MTWRF', 'times': '1030am-1230pm', 'dates': '06/04-06/29', 'location': 'BNW 162'}]",Bidyut B.  Das
+58241,PS 0116,01,3.000,General Physics II,"[{'days': 'MTWRF', 'times': '0800am-1000am', 'dates': '07/09-08/03', 'location': 'BNW 253'}]",Bidyut B.  Das
+58242,PS 0116L,01,1.000,General Physics II Lab,"[{'days': 'MTWRF', 'times': '1030am-1230pm', 'dates': '07/09-08/03', 'location': 'BNW 162'}]",Bidyut B.  Das
+58096,PO 0133,OL1,3.000,United States Foreign Policy,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/18', 'location': 'ONLINE '}]",Lucrecia   Garcia Iommi
+58473,PO 0298,01,3.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/15', 'location': 'BY ARR '}]",Edith B.  Cassidy
+58038,PY 0099,01,0.000,Comprehensive Examination in School Psychology,"[{'days': 'F', 'times': '1000am-0200pm', 'dates': '05/18-05/18', 'location': 'CNS 301'}]",Paula   Gill Lopez
+58243,PY 0101,01,3.000,General Psychology,"[{'days': 'MTWRF', 'times': '0930am-1230pm', 'dates': '07/09-07/20', 'location': 'BNW 340'}]",Michael Walden  Creane
+58244,PY 0101,OL1,3.000,General Psychology,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/14', 'location': 'ONLINE '}]",Judith   Primavera
+58017,PY 0111,OL1,3.000,Developmental Psychology for Non-Majors,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/14', 'location': 'ONLINE '}]",Judith   Primavera
+58360,PY 0131,OL1,3.000,Abnormal Psychology for Non-Majors,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/02-08/18', 'location': 'ONLINE '}]",Margaret M.  McClure
+58039,PY 0436,01,3.000,Psychopathology and Classification I,"[{'days': 'S', 'times': '0900am-0530pm', 'dates': '06/09-06/30', 'location': 'CNS 101'}]",Ronald J.  Brone
+58040,PY 0449,01,3.000,Introduction to Clinical Child Neuropsychology,"[{'days': 'S', 'times': '0800am-0400pm', 'dates': '05/12-05/12', 'location': 'CNS 203'}, {'days': 'M', 'times': '0430pm-0930pm', 'dates': '05/14-06/04', 'location': 'CNS 204'}, {'days': 'S', 'times': '0800am-0400pm', 'dates': '06/02-06/09', 'location': 'CNS 203'}]",Michael F.  Regan
+58041,PY 0475,01,3.000,Program Evaluation,"[{'days': 'U', 'times': '0830am-0530pm', 'dates': '06/10-07/01', 'location': 'CNS 101'}]",Thanos   Patelis
+58042,PY 0480,01,3.000,Consulting Theory and Practice,"[{'days': 'TWR', 'times': '0500pm-0800pm', 'dates': '05/22-06/07', 'location': 'CNS 203'}]",William Paul   Maloney
+58043,PY 0501,01,3.000,Fundamentals of Survey Design,"[{'days': 'MTR', 'times': '0430pm-0900pm', 'dates': '05/21-06/05', 'location': 'CNS 209'}]",Faith-Anne   Dohm
+58257,PY 0534,01,3.000,Theories of Learning,"[{'days': 'MW', 'times': '0430pm-0815pm', 'dates': '07/09-08/03', 'location': 'CNS 1'}]",Deborah L.  Edelman
+58044,PY 0577,01,3.000,Practicum II:  Counseling and Group Process,"[{'days': 'T', 'times': '0200pm-0400pm', 'dates': '05/15-06/19', 'location': 'CNS 101'}]",Paula   Gill Lopez
+58045,PY 0577,02,3.000,Practicum II:  Counseling and Group Process,"[{'days': 'T', 'times': '0430pm-0630pm', 'dates': '05/15-06/19', 'location': 'CNS 101'}]",Paula   Gill Lopez
+58447,MPA 0420,OL1,3.000,Leadership,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/03', 'location': 'ONLINE '}]",Gayle A.  Alberda
+58234,MPA 0430,01,3.000,Economics of the Nonprofit Sector,"[{'days': 'MTR', 'times': '0630pm-0930pm', 'dates': '06/04-06/28', 'location': 'DMH 231'}]",Mark S.  Leclair
+58298,MPA 0500,01,3.000,Internship,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Mark S.  Leclair
+58461,MPA 0510,ML,3.000,Capstone Experience,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/15', 'location': 'BY ARR '}]",Mark S.  Leclair
+58398,QA 0400,OL1,3.000,Applied Business Statistics,"[{'days': '\xa0', 'times': 'TBA', 'dates': '08/06-08/25', 'location': 'ONLINE '}]",Xin Xin   He
+58400,RLD 0583,01,3.000,Tests and Measurement in Reading and Language Arts Contexts,"[{'days': 'W', 'times': '0455pm-0900pm', 'dates': '06/06-06/27', 'location': 'CNS 101'}]",Jule J.  McCombes-Tolis
+58399,RLD 0585,01,3.000,Writing Components and Processes in the Language Arts Program,"[{'days': 'MTWR', 'times': '0430pm-0830pm', 'dates': '07/12-07/26', 'location': 'CNS 101'}]",Jennifer C.  Hornyak
+58465,RLD 0587,01,3.000,Practicum in Tier II Reading and Language Arts Intervention Practices,"[{'days': '\xa0', 'times': 'TBA', 'dates': '06/25-07/31', 'location': 'BY ARR '}]",Jule J.  McCombes-Tolis
+58401,RLD 0588,01,3.000,Practicum in Tier III Reading and Language Arts Intervention Practices,"[{'days': 'MT', 'times': '0800am-0100pm', 'dates': '06/25-07/31', 'location': 'CNS 104'}]",Jaclyn J.  Cincotta
+58464,RLD 0588,02,3.000,Practicum in Tier III Reading and Language Arts Intervention Practices,"[{'days': 'WR', 'times': '0800am-0100pm', 'dates': '06/25-07/31', 'location': 'CNS 104'}]",Jaclyn J.  Cincotta
+58391,RLD 0594,01,3.000,"Designing, Implementing, and Leading the School Literacy Intervention Program: Capstone Seminar","[{'days': 'RF', 'times': '0400pm-0800pm', 'dates': '06/28-06/29', 'location': 'CNS 104'}, {'days': 'S', 'times': '0800am-0400pm', 'dates': '06/30-06/30', 'location': 'CNS 104'}, {'days': 'RF', 'times': '0400pm-0800pm', 'dates': '07/12-07/13', 'location': 'CNS 104'}, {'days': 'S', 'times': '0800am-0400pm', 'dates': '07/14-07/14', 'location': 'CNS 104'}]",Janine M  Goss
+58189,RS 0101E,01,3.000,"Exploring Religion: Peoples of the Book, Sacred Texts, and Their Communities","[{'days': 'MTWRF', 'times': '1030am-1230pm', 'dates': '07/09-08/03', 'location': 'CNS 103'}]",Matthew D.  Glassman
+58099,RS 0101E,OL1,3.000,"Exploring Religion: Peoples of the Book, Sacred Texts, and Their Communities","[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Jeremy L.  Sabella
+58444,RS 0101E,OL2,3.000,"Exploring Religion: Peoples of the Book, Sacred Texts, and Their Communities","[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Jeremy L.  Sabella
+58178,RS 0221,01,3.000,Good News of the Gospels,"[{'days': 'MTWRF', 'times': '0800am-1000am', 'dates': '06/04-06/29', 'location': 'CNS 104'}]",Hugh M.  Humphrey
+58100,RS 0252,OL1,3.000,Contemporary Moral Problems,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/18', 'location': 'ONLINE '}]",Christian   Cintron
+58150,RS 0252,OL2,3.000,Contemporary Moral Problems,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Christian   Cintron
+58363,SO 0011,01,3.000,Introduction to Sociology,"[{'days': 'MTR', 'times': '0645pm-0955pm', 'dates': '06/04-06/28', 'location': 'CNS 106'}]",Rose P.  Rodrigues
+58364,SO 0279,01,3.000,Criminal Justice System Seminar,"[{'days': 'MTWRF', 'times': '0830am-0430pm', 'dates': '05/23-05/30', 'location': 'DMH 231'}]",Rose P.  Rodrigues
+58446,SW 0483,ARS,3.000,Independent Study,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/31', 'location': 'BY ARR '}]",Adrian S.  Rusu-Sprincenatu
+58470,SW 0483,JW,3.000,Independent Study,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/15', 'location': 'BY ARR '}]",Jonathan R.  Wilson
+58338,SW 0531,OL1,3.000,Applications and Data Security,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/10', 'location': 'ONLINE '}]",Mark D.  Ramsey
+58408,SP 0110,01,3.000,Elementary Spanish I,"[{'days': 'MTWRF', 'times': '0800am-1000am', 'dates': '06/04-06/29', 'location': 'DMH 347'}]",Antonio   Martinez-Meraz
+58046,SE 0400,01,3.000,Augmentative Alternative Communications and Assistive Technologies,"[{'days': 'TR', 'times': '0445pm-0830pm', 'dates': '07/09-08/03', 'location': 'CNS 103'}]",Vittoria   Fielosh
+58047,SE 0405,01,3.000,Exceptional Learners in the Mainstream,"[{'days': 'TR', 'times': '0430pm-0815pm', 'dates': '08/07-08/16', 'location': 'DMH 348'}, {'days': 'S', 'times': '1000am-0300pm', 'dates': '08/11-08/11', 'location': 'DMH 348'}]",Deborah L.  Edelman
+58457,SE 0405,02,3.000,Exceptional Learners in the Mainstream,"[{'days': 'TR', 'times': '0430pm-0815pm', 'dates': '08/07-08/16', 'location': 'CNS 106'}, {'days': 'S', 'times': '1000am-0300pm', 'dates': '08/11-08/11', 'location': 'CNS 106'}]",Amy Danielle  Glazer
+58392,SE 0486,01,3.000,Developmental Literacy I: Fundamentals of Reading and Language Development,"[{'days': 'MW', 'times': '0430pm-0815pm', 'dates': '07/09-08/03', 'location': 'CNS 103'}]",Jonathan Michael  Cop
+58393,SE 0550,01,3.000,Collaboration and Consultation for the Special Educator,"[{'days': 'MW', 'times': '0430pm-0815pm', 'dates': '06/05-07/03', 'location': 'CNS 10'}]",Deborah L.  Edelman
+58269,SE 0565,01,3.000,Evidence-Based Strategies in the Inclusive Classroom,"[{'days': 'MW', 'times': '0430pm-0815pm', 'dates': '06/05-07/03', 'location': 'CNS 9'}]",Hildegard H.  Szokol
+58049,SE 0591,01,3.000,Practica in Special Education,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/03', 'location': 'BY ARR '}]",Hildegard H.  Szokol
+58394,SE 0592,01,3.000,Practica in Special Education,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/09-08/03', 'location': 'BY ARR '}]",Hildegard H.  Szokol
+58361,SA 0101,OL1,3.000,Introduction to Digital Tools in Art Making,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/29-07/07', 'location': 'ONLINE '}]",Rachael Lynne  Gorchov
+58362,SA 0133,01,3.000,Alternative Processes Photography,"[{'days': 'MTWRF', 'times': '0930am-1230pm', 'dates': '07/09-07/20', 'location': 'LYL 21'}]",Jed Morgan  Post
+58421,SHS 0011,01,0.000,Forensic Psychology,"[{'days': 'MTWRF', 'times': '0900am-0400pm', 'dates': '07/09-07/13', 'location': 'NHS 103'}]",Joshua C.  Elliott
+58423,SHS 0013,01,0.000,Nursing: The Possibilities Are Endless!,"[{'days': 'MTWRF', 'times': '0900am-0400pm', 'dates': '07/09-07/13', 'location': 'NHS 104'}]",Laura A.  Conklin
+58334,SHS 0090,01,0.000,Summer BASE Camp,"[{'days': '\xa0', 'times': 'TBA', 'dates': '07/08-08/20', 'location': 'TBA'}]",Christine R.  Rodriguez
+58395,SL 0099,01,0.000,Comprehensive Examination in TESOL and Bilingual/Multicultural Education,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/17', 'location': 'BY ARR '}]",Anne E  Campbell
+58052,SL 0422,01,3.000,Teaching Grammar in Second Language Settings,"[{'days': 'TR', 'times': '0400pm-0830pm', 'dates': '07/09-08/03', 'location': 'CNS 108'}]",Linda A.  Chehy
+58053,SL 0441,01,3.000,Teaching and Learning within Multicultural Contexts of Education,"[{'days': 'MW', 'times': '0400pm-0830pm', 'dates': '05/21-06/18', 'location': 'CNS 103'}]",Antonio   Simoes
+58059,SL 0522,01,3.000,Emergent Literacy in Bilingual Early Childhood Education,"[{'days': 'S', 'times': 'TBA', 'dates': '08/04-08/04', 'location': 'ONLINE '}, {'days': 'MW', 'times': '0400pm-0830pm', 'dates': '08/06-08/17', 'location': 'CNS 101'}, {'days': 'S', 'times': '0900am-0400pm', 'dates': '08/11-08/11', 'location': 'CNS 101'}]",Heather R.  Pellicone
+58458,SL 0595,AC,3.000,Independent Study: Research in Adult TESOL,"[{'days': '\xa0', 'times': 'TBA', 'dates': '05/21-08/15', 'location': 'BY ARR '}]",Anne E  Campbell
+58162,TX 0510,01,3.000,Entity Taxation,"[{'days': 'TF', 'times': '0300pm-0700pm', 'dates': '05/22-05/25', 'location': 'DSB 115'}, {'days': 'R', 'times': '0230pm-0630pm', 'dates': '05/24-05/24', 'location': 'DSB 115'}, {'days': 'T', 'times': '1200pm-0600pm', 'dates': '05/29-05/29', 'location': 'DSB 115'}, {'days': 'R', 'times': '0300pm-0700pm', 'dates': '05/31-05/31', 'location': 'DSB 115'}, {'days': 'S', 'times': '0900am-0100pm', 'dates': '06/09-06/16', 'location': 'DSB 115'}, {'days': 'W', 'times': '0530pm-0930pm', 'dates': '06/13-06/27', 'location': 'DSB 115'}]",Kathi M.  Mettler
