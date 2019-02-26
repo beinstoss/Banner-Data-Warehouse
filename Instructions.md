@@ -12,7 +12,7 @@ In this project you will ...
 ## Expectations
 - You will be given time to work on this in class. However, expect to also do some work at home.
 
-- Each student should be able to fully present the work of her/his team. While it is on your honor to share the load with your teammates, the instructor make ask individuals to present separately from the team in private. These private presentations will be graded separately from the rest of the team. 
+- Each student should be able to fully present the work of her/his team. While it is on your honor to share the load with your teammates, the instructor make ask individuals to present separately from the team in private. These private presentations will be graded separately from the rest of the team.
 
 - __All work is due in your team GitHub repository by 10pm the night before our final class period.__
 
@@ -35,7 +35,7 @@ Inside the `SourceData` folder is a large number of subfolders:
     - `courses.csv`: a CSV-formatted table of course data
     - `Calendars`: a folder of ical files, one per course (CRN) that can be directly imported into any standard calendaring software; it has been tested with Outlook (Exchange), Mac Calendar (iCloud), and Google Calendar
 
-__Please take time to get to know these files. While you're at it, look for bugs! Add a Markdown-formatted `DataIssues.md` file to the bottom of the `SourceData` folder with details about every bug you find. (Take care with the Markdown formatting. Dropping big, stupidly-formatted blobs of text is very bad form. It's also extremely unprofessional. [Learn Markdown!](https://github.github.com/gfm/))
+__Please take time to get to know these files. While you're at it, look for bugs! Add a Markdown-formatted `DataIssues.md` file to the bottom of the `SourceData` folder with details about every bug you find.__ (Also, take care with the Markdown formatting. Dropping big, stupidly-formatted blobs of text is very bad form. It's also extremely unprofessional. [Learn Markdown!](https://github.github.com/gfm/))
 
 __2. Design a normalized relational database that can contain all CSV data in your `SourceData` repository. Document the design with an ERD and a data dictionary.__
 
