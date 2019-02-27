@@ -12,7 +12,7 @@ In this project you will ...
 ## Expectations
 - You will be given time to work on this in class. However, expect to also do some work at home.
 
-- Each student should be able to fully present the work of her/his team. While it is on your honor to share the load with your teammates, the instructor make ask individuals to present separately from the team in private. These private presentations will be graded separately from the rest of the team.
+- Each student should be able to fully present the work of her/his team. While it is on your honor to share the load with your teammates, the instructor ask individuals to present separately from the team in private. These private presentations will be graded separately from the rest of the team.
 
 - __All work is due in your team GitHub repository by 10pm the night before our final class period.__
 
