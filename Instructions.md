@@ -27,7 +27,7 @@ __1. Study the Source Data.__
 Inside the `SourceData` folder is a large number of subfolders:
 
 - `AcademicCalendars` and `Catalogs` folders contain printable PDF files that cover the years 2014-2019. You will also find a couple of CSV files in the `Catalogs` folder that you will need to import into your database.
-- The rest of the folders (`Fall2014`, `Winter2015`,`Spring2015`, etc.) contain course offering data for every academic term from Fall 2014 to Spring 2019. Each folder contains:    
+- The rest of the folders (`Fall2014`, `Winter2015`,`Spring2015`, etc.) contain course offering data for every academic term since Fall 2014. Each folder contains:    
     - `banner.html`: a dump of the data scraped from Banner Web
     - `cal_rules.yaml`: configuration rules that account for holidays, schedule shifts, etc. (Note: YAML is actually a standard! Look it up.)
     - `course_meetings.csv`: a CSV-formatted table of class meetings, one line per meeting
@@ -35,7 +35,7 @@ Inside the `SourceData` folder is a large number of subfolders:
     - `courses.csv`: a CSV-formatted table of course data
     - `Calendars`: a folder of ical files, one per course (CRN) that can be directly imported into any standard calendaring software; it has been tested with Outlook (Exchange), Mac Calendar (iCloud), and Google Calendar
 
-__Please take time to get to know these files. While you're at it, look for bugs! Add a Markdown-formatted `DataIssues.md` file to the bottom of the `SourceData` folder with details about every bug you find.__ (Also, take care with the Markdown formatting. Dropping big, stupidly-formatted blobs of text is very bad form. It's also extremely unprofessional. [Learn Markdown!](https://github.github.com/gfm/))
+__Please take time to get to know these files.__ If you find any bugs in the source data files report them [here](https://github.com/christopherhuntley/ba510-course-data-project/issues).
 
 __2. Design a normalized relational database that can contain all CSV data in your `SourceData` repository. Document the design with an ERD and a data dictionary.__
 
@@ -43,6 +43,7 @@ __2. Design a normalized relational database that can contain all CSV data in yo
 - Normalize to at least BCNF.
 - The ERD should be a PDF file named "CourseDataERD.PDF" to be dropped in the `docs` folder.
 - Also in the `docs` folder, add a Markdown-formatted `CourseDataDictionary.md` file that defines every column on every table. Use the table names as second level headings (`##`) and bullet lists for the column definitions. If you are feeling frisky, then perhaps use Markdown tables instead of bullet lists.  
+- Take care with the [Markdown formatting](https://github.github.com/gfm/). Dropping big, stupidly-formatted blobs of text is very bad form. It's also extremely unprofessional.
 
 __3. Create a SQLite database called `CourseData.db` in this folder. The database should exactly match your ERD. Populate the database with data from the CSV files.__
 
@@ -58,12 +59,12 @@ __4. Test the integrity of your new `CourseData.db` database.__
     - Each column has a sensible data type (Domain integrity); are there truncation or translation errors?   
     - Each row describes a unique entity (Entity integrity); just having a PK is not enough: you will need to look for duplicate a data records
     - Each relationship is implemented correctly (Relational integrity); are the FKs JOIN-compatible with the PKs? does each mandatory relationship have a corresponding NOT NULL constraint?
-- Annotate your queries in Markdown so we know what you are testing and why.
+- Annotate your queries in Markdown cells so we know what you are testing and why.
 
 __5. Design and build data warehouse called `CourseDataWarehouse.db`.__
 
 - Use a star schema design. The idea is to make writing 'rollup' queries with SELECT ... FROM ... WHERE ... GROUP BY as easy as possible. The dimension FKs are likely redundant -- they can be usually be inferred from other table relationships -- but often eliminate the need for complex JOINs.
-- Document each fact table (and associated dimensions) as a separate ERD. Each ERD should be named using the pattern <fact table>.pdf (without the brackets, which are there to indicate a placeholder) and contain no spaces or other unnecessary punctuation. Store the PDF files in the `docs` folder.
+- Document each fact table (and associated dimensions) as a separate ERD. Each ERD should be named using the pattern `fact-table-name.pdf` and contain no spaces or other unnecessary punctuation. Store the PDF files in the `docs` folder.
 - You will need to figure out how to extract data from `CourseData.db` in order to insert it into `CourseDataWarehouse.db`.
 
 __6. Test your `CourseDataWarehouse.db` for data integrity.__
