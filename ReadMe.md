@@ -8,12 +8,12 @@ Final Presentation Outline
     - Course Meetings
     - Course Offerings
 
-- The [CourseDataDictionary](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/docs/CourseDataDictionary.md) contains the definitions of each field within the three files mentioned above.
+- The [CourseDataDictionary](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/docs/CourseDataDictionary.md) contains the definitions of each field within the three files mentioned above. The fields in the dictionary are segmented by the database tables in which the field lives in, these tables will be created within __Step 1__ of this process.
 
 
 ## Step 1: Creation of CourseData.db
 
--  After analyzing the raw data, we began to build the ERD schema for our database. The final output contained the following 7 tables normalized down to BCNF.
+-  After analyzing the raw data, we began to build the ERD schema for our database. The final output contains the following 7 tables normalized down to BCNF.
     - PROGRAMS
     - CATALOG_COURSES
     - TERM_TO_CATALOG_YEAR
@@ -22,9 +22,9 @@ Final Presentation Outline
     - COURSE_INSTRUCTORS
     - COURSE_LOCATIONS
 
-- Click [here](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/docs/CourseDataERD.pdf) to access the CourseDataERD pdf file containing the ERD schema for CourseData.db
+- [CourseDataERD](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/docs/CourseDataERD.pdf)
 
-- Using the ERD Schema as a guide, we began the [CourseData.db ETL process](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/CourseDataETL.ipynb) in order to "Extract, Transform and Load" from the raw csv files into the CourseData.db.
+- Using the ERD Schema as a guide, we began the [CourseData.db ETL process](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/CourseDataETL.ipynb) in order to "Extract, Transform and Load" data from the raw csv files into the CourseData.db.
 
 ## Step 2: Test CourseData.db
 

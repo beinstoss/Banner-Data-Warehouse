@@ -8,7 +8,7 @@ Final Presentation Outline
     - Course Meetings
     - Course Offerings
 
-- The [CourseDataDictionary](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/docs/CourseDataDictionary.md) contains the definitions of each field within the three files mentioned above.
+- The [CourseDataDictionary](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/docs/CourseDataDictionary.md) contains the definitions of each field within the three files mentioned above. The fields in the dictionary are segmented by the database tables in which the field lives in, these tables will be created within __Step 1__ of this process.
 
 
 ## Step 1: Creation of CourseData.db
