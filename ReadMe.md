@@ -1,4 +1,5 @@
-## Final Presentation Outline
+Team %%sql Final Presentation
+======
 
 - Step 1: [Create CourseData.db Through ETL Process](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/CourseDataETL.ipynb)
 
