@@ -8,7 +8,7 @@ Final Presentation Outline
     - Course Meetings
     - Course Offerings
 
-- Click [here](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/docs/CourseDataDictionary.md) to access the CourseDataDictionary containing the definition of each field within the three files mentioned above.
+- The [CourseDataDictionary](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/docs/CourseDataDictionary.md) contains the definitions of each field within the three files mentioned above.
 
 
 ## Step 1: Creation of CourseData.db
@@ -33,22 +33,31 @@ Final Presentation Outline
     - Entity Integrity
     - Relational Integrity
 
-- Click [here](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/CourseDataTests.ipynb) to access the CourseData.db integrity checks.
+- [CourseData.db Integrity Testing](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/CourseDataTests.ipynb)
 
-## Step 3: Create CourseDataWarehouse.db
+## Step 3: Create CourseDataWarehouse.db Using Star Schema
 
-- Step 2: [Test CourseData.db](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/CourseDataTests.ipynb)
+- The purpose of the CourseDataWarehouse.db Star Schema is to answer user specific questions and make rollup queries as simple as possible.
+    - The users of our Data Warehouse include Fairfield University Deans, Department Chairs and Program Directors.
 
-- Step 3: [Create CourseDataWarehouse.db Using Star Schema](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/CourseDataWarehouse.ipynb)
+- Since the data being used for the CourseDataWarehouse.db is coming from the CourseData.db, we are already familiar with the data and can proceed to creating our Fact Table ERD which contains the following tables:
+    - FACT_TABLE
+    - INSTRUCTOR_DIMENSION
+    - CATALOG_DIMENSION
+    - LOCATION_DIMENSION
+    - TIME_DIMENSION
+    - COURSE_DIMENSION
 
-- Step 4: [Test CourseDataWarehouse.db](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/CourseDataWarehouseTests.ipynb)
+- Using the [Fact Table ERD](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/docs/Fact_Table.pdf) as a guide, we can now create the necesseray tables for our Data Warehouse, as well as extract data from CourseData.db in order to populate these tables. This process can be seen [here](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/CourseDataWarehouse.ipynb).
 
-- Step 5: [Demo CourseDataWarehouse.db](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/CourseDataWarehouseDemo.ipynb)
+## Step 4: 
 
-## Supplemental Docs
+- Now that we have created and populated the CourseDataWarehouse.db, we must now test the integrity of the data with the same type of checks that were ran on __Step 2__ of this process.
 
-- [CourseDataERD]
+- [CourseDataWarehouse.db Integrity Testing](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/CourseDataWarehouseTests.ipynb)
 
-- [FactTableOne](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/docs/fact-table-one.pdf)
+## Step 5:
 
-- 
+- We have now succesfully created and tested our CourseDataWarehouse.db and have created some demo queries as examples of possible real-world use cases for this Data Warehouse.
+
+- [CourseDataWarehouse.db Demos](https://github.com/fairfield-ba510-spring2020/term-project-sql/blob/master/CourseDataWarehouseDemo.ipynb)
